@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in [FPO Co.,Ltd](https://fpo.vn)
 - 🌱 I’m currently learning DevOps and Cyber Security skills
-- I have more than 4 years of experience in: 
+- 🔥 I have more than 4 years of experience in: 
   - 📦️ API development with NodeJS
   - 🏗️ Database management with MongoDB
   - 👔 Project management: Web development project; Mobile development project; Big system with web, mobile and IoT hardward
@@ -15,6 +15,8 @@ I am strongly capable of building large-scale API with NodeJS and MongoDB which 
 - 🚩 Visit [My website](https://phuongduong.fpo.vn)
 - 🔖 Visit [My Linkedin](https://www.linkedin.com/in/phuongduong-fpo/)
 - 🧪 Visit [My Gitlab](https://gitlab.com/dthphuong1)
+
+
 <!--
 **dthphuong/dthphuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
