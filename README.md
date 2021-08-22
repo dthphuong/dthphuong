@@ -11,7 +11,7 @@
 I am strongly capable of building large-scale API with NodeJS and MongoDB which I built a clean framework to work by myself. In another hand, I am a CEO of the startup IT company that working well in website development, mobile development.
 
 
-- 📫 How to reach me: [phuongduong@fpo.vn](mailto:phuongduong@fpo.vn)
+- 📫 Email me [phuongduong@fpo.vn](mailto:phuongduong@fpo.vn)
 - 🚩 Visit [My website](https://phuongduong.fpo.vn)
 - 🔖 Visit [My Linkedin](https://www.linkedin.com/in/phuongduong-fpo/)
 - 🧪 Visit [My Gitlab](https://gitlab.com/dthphuong1)
