@@ -1,4 +1,4 @@
-### Hi, I'm Phuong – a Technical Project Manager passionate about building smart, scalable solutions.
+### 👋 Hi, I'm Phuong – a Technical Project Manager passionate about building smart, scalable solutions.
 
 With years of experience at FPT Software, I lead complex projects in the Oil & Gas sector, focusing on clean architecture, large-scale APIs (NodeJS, MongoDB), and AI-powered applications. I’m passionate about digital transformation, R&D innovation, and helping teams grow with the right tools and mindset.
 
